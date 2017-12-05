@@ -1,2 +1,2 @@
-# Chain-Code
+# Chain Code
 Image processing - Chain Code
